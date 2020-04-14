@@ -39,8 +39,7 @@ export default {
           property: 'og:image',
           content:
             (process.env.URL ? process.env.URL : '') +
-            '/_nuxt' +
-            this.$store.state.featureImage
+            require(`~/assets${this.$store.state.featureImage}`)
         },
         {
           hid: 'og:url',
