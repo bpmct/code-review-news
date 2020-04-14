@@ -3,8 +3,12 @@
     {{ $siteConfig.siteName }} &copy; {{ new Date().getFullYear() }} - All
     Rights Reserved
     <br />
-    Made with <span style="color: #e25555;">&#9829;</span> with Nuxt.js and
-    Netlify
+    A project by <a href="https://bpmct.net" target="_blank">BPMCT</a>.
+    <span style="color: #e25555;">&#9829;</span> Using the
+    <a href="https://github.com/danielkellyio/awake-template" target="_blank">
+      awake template
+    </a>
+    by danielkellyio.
   </footer>
 </template>
 
