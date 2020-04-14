@@ -8,7 +8,7 @@
     />
     <div class="hero-body">
       <div class="container">
-        <h1 class="title animated fadeInUp">
+        <h1 class="title animated fadeInUp has-text-weight-bold">
           {{ title }}
         </h1>
         <h2 class="subtitle animated fadeInUp slower">
