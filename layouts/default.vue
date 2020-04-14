@@ -39,7 +39,7 @@ export default {
           property: 'og:image',
           content:
             (process.env.URL ? process.env.URL : '') +
-            '_nuxt' +
+            '/_nuxt' +
             this.$store.state.featureImage
         },
         {
