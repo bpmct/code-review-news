@@ -2,7 +2,7 @@
 title: GitLab's New Code Review Analytics Tool
 subtitle: "Understand your team's code review process though data "
 category:
-  - Third Party Integrations
+  - Code Review Tools
 author: Ben Potter
 date: 2020-04-15T19:05:28.272Z
 featureImage: /uploads/code_review_analytics.png
