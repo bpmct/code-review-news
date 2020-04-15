@@ -10,21 +10,18 @@ import theCMS from '../cms/netlify/cms'
  */
 export default {
   siteName: 'Code Review News',
-  tagline: 'Highlighting popular code review tools and practices',
+  tagline:
+    'Highlighting the latest news and updates on code review tools and practices',
   featureImage: '/uploads/code-review.jpg',
   logo: '/cr-header.png', // 'logo-component', // or '/logo.svg' for regular image
   googleAnalytics: {
     on: true,
-    id: process.env.GOOGLE_ANALYTICS_ID
+    id: 'UA-163675525-1'
   },
   mainMenu: [
     {
       name: 'About',
       link: '/about'
-    },
-    {
-      name: 'Contact',
-      link: '/contact'
     },
     {
       name: 'Categories',
@@ -51,7 +48,7 @@ export default {
   disqus: {
     on: true,
     loadingStrategy: 'button', // Options: onload, lazy, button
-    siteShortName: 'blog-danielkelly-io' // 'blog-danielkelly-io'
+    siteShortName: 'code-review-news' // 'blog-danielkelly-io'
   },
 
   // Newsletter Subscribe

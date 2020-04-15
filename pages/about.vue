@@ -2,106 +2,82 @@
   <div id="about-page" class="page-wrapper about-page content-page">
     <site-hero
       title="About Us"
-      subtitle="Example About Page"
-      image="/uploads/about-hero.jpg"
+      subtitle=""
+      image="/uploads/coding.jpg"
     ></site-hero>
     <main-section theme="sidebar-right">
       <template v-slot:default>
-        <div class="content">
-          <h3>Fake Heading</h3>
-          <p>
-            <strong>
-              Edit this page in<code>/pages/about.vue</code>to fit your needs.
-            </strong>
-          </p>
-          <p>
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Adipisci
-            eligendi impedit inventore ipsa laboriosam libero magnam modi odio,
-            sunt temporibus. Distinctio doloremque eum magni nostrum quasi
-            ratione rem repudiandae sit!
-          </p>
-
-          <h3>Another Fake Heading</h3>
-          <p>
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Adipisci
-            eligendi impedit inventore ipsa laboriosam libero magnam modi odio,
-            sunt temporibus. Distinctio doloremque eum magni nostrum quasi
-            ratione rem repudiandae sit!
-          </p>
-          <quote-card />
-          <h3>Still More Fake Content</h3>
-          <p>
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Adipisci
-            eligendi impedit inventore ipsa laboriosam libero magnam modi odio,
-            sunt temporibus. Distinctio doloremque eum magni nostrum quasi
-            ratione rem repudiandae sit! Lorem ipsum dolor sit amet, consectetur
-            adipisicing elit.
-            <strong>Alias aut facere harum ipsam</strong> quibusdam quidem
-            quisquam saepe? Alias architecto blanditiis consequatur consequuntur
-            dicta ipsa iste modi provident, quod, similique veritatis.
-          </p>
-        </div>
-
         <div class="tile is-ancestor">
           <div class="tile is-parent">
             <article class="tile is-child box">
-              <p class="title">
-                Cool Stuff We Do
-              </p>
-              <p class="subtitle">
-                Sooo Cool
-              </p>
-              <figure class="image is-1by1">
-                <opti-image width="500" height="500" />
+              <figure class="image is-1by1 ">
+                <opti-image
+                  :src="require('~/assets/uploads/ben.jpg').src"
+                  :srcset="require('~/assets/uploads/ben.jpg').srcSet"
+                />
               </figure>
+              <br />
+              <div class="content">
+                <p>
+                  Have a question? Want to be featured? Send me an email:
+                  <a
+                    href="
+                mailto:me@bpmct.net
+              "
+                  >
+                    me@bpmct.net
+                  </a>
+                </p>
+              </div>
             </article>
           </div>
-          <div class="tile is-parent">
+          <div class="tile is-parent is-8">
             <article class="tile is-child box">
               <p class="title">
-                Other Cool Things
+                Hey 👋
               </p>
-              <p class="subtitle">
-                Just as cool
+              <p>
+                <a href="https://codereviewnews.com">Code Review News</a> is a
+                simple blog highlighting the latest news and updates on code
+                review tools and practices. Currently being ran by Ben Potter.
               </p>
-              <figure class="image is-1by1">
-                <opti-image width="500" height="500" />
-              </figure>
-            </article>
-          </div>
-          <div class="tile is-parent">
-            <article class="tile is-child box">
-              <p class="title">
-                All the cool
+              <br />
+              <p>
+                Huge shoutout to <a href="https://netlify.com">Netlify</a>,
+                <a href="https://nuxtjs.org/">Nuxt.js</a>, and the
+                <a href="https://github.com/danielkellyio/awake-template">
+                  awake template
+                </a>
+                by danielkellyio for making this site so fast! 😁
               </p>
-              <p class="subtitle">
-                that is all
+              <hr />
+              <p>
+                ⚠ Disclaimer: I do contract social media work for
+                <a href="https://codestream.com/use-cases/code-reviews">
+                  CodeStream
+                </a>
+                , which currently offers an in-IDE code review tool.
               </p>
-              <figure class="image is-1by1">
-                <opti-image width="500" height="500" />
-              </figure>
             </article>
           </div>
         </div>
       </template>
-
       <template v-slot:sidebar>
         <h3 class="subtitle is-4">
           Latest Posts
         </h3>
+        <!-- Latest Posts -->
         <posts-grid :per-row="1" :number="2" />
       </template>
     </main-section>
   </div>
 </template>
 <script>
-import QuoteCard from '~/components/cards/QuoteCard'
 export default {
   head() {
     return {
       title: `About | ${this.$siteConfig.siteName}`
     }
-  },
-  components: { QuoteCard }
+  }
 }
 </script>
