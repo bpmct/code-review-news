@@ -13,4 +13,4 @@ With access to these statistics, it makes it easier for teams to understand stre
 
 ![Code review analytics screenshot](/uploads/code_review_analytics_v12_8.png)
 
-See more details at GitLab's official blog post: [https://about.gitlab.com/blog/2020/03/18/troubleshoot-delays-with-code-review-analytics/](https://about.gitlab.com/blog/2020/03/18/troubleshoot-delays-with-code-review-analytics/)
+Read more at GitLab's official blog post: [https://about.gitlab.com/blog/2020/03/18/troubleshoot-delays-with-code-review-analytics/](https://about.gitlab.com/blog/2020/03/18/troubleshoot-delays-with-code-review-analytics/)
