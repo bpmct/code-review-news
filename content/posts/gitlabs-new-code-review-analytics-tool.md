@@ -11,6 +11,4 @@ In January, the GitLab team introduced [v12.7](https://docs.gitlab.com/ee/user/a
 
 With access to these statistics, it makes it easier for teams to understand strengths and weaknesses in their code review process.
 
-![Code review analytics screenshot](/uploads/code_review_analytics_v12_8.png)
-
 Read more at GitLab's official blog post: [https://about.gitlab.com/blog/2020/03/18/troubleshoot-delays-with-code-review-analytics/](https://about.gitlab.com/blog/2020/03/18/troubleshoot-delays-with-code-review-analytics/)
