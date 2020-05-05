@@ -16,7 +16,7 @@ export default {
   logo: '/cr-header.png', // 'logo-component', // or '/logo.svg' for regular image
   googleAnalytics: {
     on: true,
-    id: 'UA-163675525-1'
+    id: process.env.GOOGLE_ANALYTICS_ID
   },
   mainMenu: [
     {
