@@ -17,9 +17,9 @@ export const modules = [
   'nuxt-fontawesome',
   'nuxt-responsive-loader'
 ]
-if (siteConfig.googleAnalytics.on && siteConfig.googleAnalytics.id) {
-  modules.push('@nuxtjs/google-analytics')
-}
+// if (siteConfig.googleAnalytics.on && siteConfig.googleAnalytics.id) {
+//   modules.push('@nuxtjs/google-analytics')
+// }
 
 export const modulesSettings = {
   fontawesome: {

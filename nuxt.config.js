@@ -34,6 +34,7 @@ export default {
    ** Nuxt.js modules
    */
   modules: modules,
+  buildModules: ['@nuxtjs/google-analytics'],
   ...modulesSettings,
   /*
    ** Build configuration
