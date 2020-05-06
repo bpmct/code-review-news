@@ -13,6 +13,6 @@ CodeScanning works on any code analysis engine, but the demo used CodeQL, GitHub
 
 CodeScanning will be also be FREE for open source projects!
 
-![CodeScanning Example Screenshot](/uploads/chrome_p6e2Ntcp6d.png)
+![CodeScanning Example Screenshot](/uploads/chrome_0v3lrsxixo.png)
 
 [Watch the video on GitHub Satellite.](https://githubsatellite.com/)
