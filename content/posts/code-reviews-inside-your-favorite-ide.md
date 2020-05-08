@@ -14,6 +14,6 @@ featureImage: /uploads/code_63w2cxppec.png
 - Can automatically send Slack notifications to teammates
 - Allow comments on any code, not just the diffs from the current review.
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Use VS Code? 👩‍💻<br><br>Ask a teammate for a quick code review with a few clicks! No need to make a PR or leave your IDE.<br><br>CodeStream Extension: <a href="https://t.co/zlw1VHIUhS">https://t.co/zlw1VHIUhS</a><a href="https://twitter.com/vscodetips?ref_src=twsrc%5Etfw">@vscodetips</a> <a href="https://twitter.com/code?ref_src=twsrc%5Etfw">@code</a> <a href="https://twitter.com/hashtag/vscode?src=hash&amp;ref_src=twsrc%5Etfw">#vscode</a> <a href="https://twitter.com/hashtag/codereview?src=hash&amp;ref_src=twsrc%5Etfw">#codereview</a> <a href="https://t.co/x11IJCQoFz">pic.twitter.com/x11IJCQoFz</a></p>&mdash; CodeStream (@teamcodestream) <a href="https://twitter.com/teamcodestream/status/1250499674416562180?ref_src=twsrc%5Etfw">April 15, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+![Code Review GIF](https://i.imgur.com/lfxirQV.gif)
 
 [Learn more from on their blog post.](https://www.codestream.com/blog/codestream-7-0-code-reviews-in-your-ide-and-live-view)
