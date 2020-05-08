@@ -12,7 +12,7 @@ featureImage: /uploads/code_63w2cxppec.png
 - Are inside the IDE (VS Code and JetBrains IDEs)
 - Do not require PRs, code reviews can be performed on local commits or even uncomitted code.
 - Can automatically send Slack notifications to teammates
-- Allow comments on any code, not just the diffs from the current review.
+- Allow comments on any code, not just the diffs from the current review
 
 ![Code Review GIF](https://i.imgur.com/lfxirQV.gif)
 
