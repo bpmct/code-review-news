@@ -16,4 +16,4 @@ featureImage: /uploads/code_63w2cxppec.png
 
 ![Code Review GIF](https://i.imgur.com/lfxirQV.gif)
 
-[Learn more from on their blog post.](https://www.codestream.com/blog/codestream-7-0-code-reviews-in-your-ide-and-live-view)
+[Learn more from their blog post.](https://www.codestream.com/blog/codestream-7-0-code-reviews-in-your-ide-and-live-view)
