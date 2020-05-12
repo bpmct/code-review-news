@@ -19,3 +19,5 @@ DeepSource makes it easy to discover flaws in your code with automated code revi
 ![False-positive screenshot](https://assets.deepsource.io/dfbe350/images/false-positive.svg)
 
 Sometimes, reports may be false-positives. DeepSource thought of this and allows devs to flag certain reports.
+
+[Read more about the announcement on their blog post!](https://deepsource.io/blog/team-plan-free-private-repos/)
