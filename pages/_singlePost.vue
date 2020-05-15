@@ -68,4 +68,7 @@ export default {
 .edit-post {
   margin-bottom: 20px;
 }
+.post-wrapper {
+  font-size: 21px;
+}
 </style>
