@@ -22,4 +22,4 @@ At Practium, code reviews start on day 1 to ensure students are writing quality 
 🚀 If students feel stuck they can ask a tutor for help or study material before sending their work for another review
 ```
 
-Read [Andrew's full post on Dev.to](https://dev.to/andrewu/why-code-reviews-are-crucial-for-newbies-my-story-2pfj) or check out [Practicum](https://practicum.yandex.com/)
+Read [Andrew's full post on Dev.to](https://dev.to/andrewu/why-code-reviews-are-crucial-for-newbies-my-story-2pfj) or check out [Practicum's Bootcamps](https://practicum.yandex.com/).
