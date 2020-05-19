@@ -10,7 +10,6 @@ featureImage: /uploads/aerial-photo-of-buildings-and-roads-681335.jpg
 ---
 Code reviews are incredibly important for everything from ensuring application security to reducing technical debt. However, code reviews can be quite time consuming. By using tools, you can reduce toil and automate some manual tasks, speeding up development.
 
-![Analytics photo](https://i.imgur.com/uI8Wukd.jpg)
 
 ## Analytics
 **Code review analytics** is a great place to start. By understanding how your current code reviews perform, you can make decisions to optimize your workflow. 
@@ -18,7 +17,8 @@ Code reviews are incredibly important for everything from ensuring application s
 - GitLab recently added [code review analytics as well](https://codereviewnews.com/gitlabs-new-code-review-analytics-tool)
 - [SourceLevel](https://sourcelevel.io/) offers PR analytics as well for gaining deeper insights
 
-![Code security stock photo](https://i.imgur.com/3kIwzPR.jpg)
+![Analytics photo](https://i.imgur.com/uI8Wukd.jpg)
+
 
 ## Security
 Automated security code reviews can not only improve code review time, but also consistently search your code for known security bugs. This can save a lot of manual time while also ensuring that common bugs are not overlooked.
@@ -26,6 +26,8 @@ Automated security code reviews can not only improve code review time, but also 
 - [Codacy](https://www.codacy.com/), an automated code review tool, will search search for security flaws in your code.
 - Synk.io recently releases a [free cheatsheet](https://codereviewnews.com/8-security-code-review-best-practices) that makes it easy to search for security flaws in code reviews.
 - SoftwareSecured.com also has a great [security checklist](https://www.softwaresecured.com/secure-code-review-checklist/) for code reviews!
+
+![Code security stock photo](https://i.imgur.com/3kIwzPR.jpg)
 
 ## Code quality/technical debt
 Searching for duplicated code, unused functions, and overcomplex code can often be automated. These tools will save you time and do a lot of this for you:
