@@ -18,7 +18,7 @@ Code reviews are incredibly important for everything from ensuring application s
 - GitLab recently added [code review analytics as well](https://codereviewnews.com/gitlabs-new-code-review-analytics-tool)
 - [SourceLevel](https://sourcelevel.io/) offers PR analytics as well for gaining deeper insights
 
-![Code security stock photo](https://i.imgur.com/yuyUchH.jpg)
+![Code security stock photo](https://i.imgur.com/3kIwzPR.jpg)
 
 ## Security
 Automated security code reviews can not only improve code review time, but also consistently search your code for known security bugs. This can save a lot of manual time while also ensuring that common bugs are not overlooked.
@@ -33,7 +33,7 @@ Searching for duplicated code, unused functions, and overcomplex code can often 
 - [SourceGraph](https://about.sourcegraph.com/) makes it easier to visualize and understand your code in code review time. 
 - DeepSource [(now free for private repos)](https://codereviewnews.com/deepsource-is-now-free-for-private-repositories) also offers automated security analysis on code reviews in Python and Go.
 
-![Person coding dual monitors](https://i.imgur.com/hGk87sl.jpg)
+![Person coding dual monitors](https://i.imgur.com/HsIqEMN.jpg)
 
 ## Improve the manual review process
 - [CodeSteam](https://codestream.com) makes it easy to request a code review at any point in the development cycle, right from your IDE.
