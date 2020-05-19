@@ -10,11 +10,15 @@ featureImage: /uploads/aerial-photo-of-buildings-and-roads-681335.jpg
 ---
 Code reviews are incredibly important for everything from ensuring application security to reducing technical debt. However, code reviews can be quite time consuming. By using tools, you can reduce toil and automate some manual tasks, speeding up development.
 
+![Analytics photo](https://i.imgur.com/uI8Wukd.jpg)
+
 ## Analytics
 **Code review analytics** is a great place to start. By understanding how your current code reviews perform, you can make decisions to optimize your workflow. 
 - ValueStream offers [GitHub PR analytics](https://medium.com/valuestream-by-operational-analytics-inc/valuestream-introducing-github-pull-request-metric-reports-a159e9bef754)
 - GitLab recently added [code review analytics as well](https://codereviewnews.com/gitlabs-new-code-review-analytics-tool)
 - [SourceLevel](https://sourcelevel.io/) offers PR analytics as well for gaining deeper insights
+
+![Code security stock photo](https://i.imgur.com/yuyUchH.jpg)
 
 ## Security
 Automated security code reviews can not only improve code review time, but also consistently search your code for known security bugs. This can save a lot of manual time while also ensuring that common bugs are not overlooked.
@@ -29,11 +33,15 @@ Searching for duplicated code, unused functions, and overcomplex code can often 
 - [SourceGraph](https://about.sourcegraph.com/) makes it easier to visualize and understand your code in code review time. 
 - DeepSource [(now free for private repos)](https://codereviewnews.com/deepsource-is-now-free-for-private-repositories) also offers automated security analysis on code reviews in Python and Go.
 
+![Person coding dual monitors](https://i.imgur.com/hGk87sl.jpg)
+
 ## Improve the manual review process
 - [CodeSteam](https://codestream.com) makes it easy to request a code review at any point in the development cycle, right from your IDE.
 - [Phabricator](https://www.phacility.com/phabricator/), Facebook's code review tool, adds a lot of features that GitHub PRs are lacking.
 - SourceGraph's [GitHub Integration](https://about.sourcegraph.com/product/code-review/) is a bwoeser extension that adds enhanced discussion tools 
 - [Github PRs for VS Code](https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-pull-request-github) makes it easy to "checkout" a PR in VS Code and leave comments.
+
+---
 
 🤔 Are we missing something? [Contact us](https://codereviewnews.com/about)
 
