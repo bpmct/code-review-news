@@ -40,7 +40,7 @@ Searching for duplicated code, unused functions, and overcomplex code can often 
 ## Improve the manual review process
 - [CodeSteam](https://codestream.com) makes it easy to request a code review at any point in the development cycle, right from your IDE.
 - [Phabricator](https://www.phacility.com/phabricator/), Facebook's code review tool, adds a lot of features that GitHub PRs are lacking.
-- SourceGraph's [GitHub Integration](https://about.sourcegraph.com/product/code-review/) is a bwoeser extension that adds enhanced discussion tools 
+- SourceGraph's [GitHub Integration](https://about.sourcegraph.com/product/code-review/) is a browser extension that adds enhanced discussion tools 
 - [Github PRs for VS Code](https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-pull-request-github) makes it easy to "checkout" a PR in VS Code and leave comments.
 
 ---
