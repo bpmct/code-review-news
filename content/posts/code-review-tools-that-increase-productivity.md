@@ -6,7 +6,7 @@ category:
   - Code Review Tools
 author: Ben Potter
 date: 2020-05-17T21:20:40.947Z
-featureImage: /uploads/aerial-photo-of-buildings-and-roads-681335.jpg
+featureImage: /uploads/dock-in-the-middle-of-body-of-water-3993186.jpg
 ---
 Code reviews are important for everything from ensuring application security to reducing technical debt. However, code reviews can be quite time consuming. By using tools, you can reduce toil and automate some manual tasks, speeding up development.
 
