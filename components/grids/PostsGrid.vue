@@ -9,7 +9,7 @@
         :title="item.title"
         :link="item.slug ? `/${item.slug}` : ''"
         :image="item.featureImage"
-        :author="item.author"
+        :subtitle="item.subtitle"
         :date="item.date"
       />
     </template>

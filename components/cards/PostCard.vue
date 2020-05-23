@@ -9,14 +9,12 @@
         null
     "
   >
-    <span
-      v-if="author && $siteConfig.posts.displayAuthor"
-      class="author-wrapper"
-    >
-      <strong>Author:</strong> {{ author }} |
-    </span>
+    <p class="description-wrapper">
+      {{ subtitle }}
+    </p>
+    {{ '\n' }}
     <span v-if="date" class="date-wrapper">
-      <strong>Published on:</strong> {{ datePretty }}
+      <strong>Published:</strong> {{ datePretty }}
     </span>
   </generic-card>
 </template>
@@ -43,7 +41,7 @@ export default {
       type: String,
       default: ''
     },
-    author: {
+    subtitle: {
       type: String,
       default: ''
     }
@@ -55,3 +53,10 @@ export default {
   }
 }
 </script>
+
+<style scoped lang="scss">
+.description-wrapper {
+  margin-top: 12px;
+  margin-bottom: 12px;
+}
+</style>

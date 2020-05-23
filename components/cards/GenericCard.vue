@@ -23,7 +23,7 @@
               :class="
                 `title
                 is-5
-                has-text-weight-light
+                has-text-weight-medium
                 ${title ? '' : 'empty-content-placeholder'}`
               "
             >
@@ -79,7 +79,7 @@ export default {
 <style scoped lang="scss">
 .subtitle {
   opacity: 0.5;
-  font-size: 0.8rem;
+  font-size: 1rem;
 }
 .empty-content-placeholder {
   background: transparent;
