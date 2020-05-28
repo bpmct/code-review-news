@@ -1,5 +1,5 @@
 ---
-title: Code reviews inside your favorite IDE
+title: CodeStream adds code reviews inside the IDE
 subtitle: The CodeStream extension makes it possible to code reviews inside your
   favorite IDE.
 category:
