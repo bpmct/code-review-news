@@ -1,6 +1,7 @@
 ---
-title: Learn about code reviews with this free course
-subtitle: SourceLevel releases a 7-day code review course.
+title: SourceLevel releases a 7-day code review course
+subtitle: Code reviews are often learned at the workplace. SourceLevel releases
+  a free course to introduce beginners to code reviews.
 category:
   - Insights & Research
 author: Ben Potter
