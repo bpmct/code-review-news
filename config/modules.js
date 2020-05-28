@@ -31,6 +31,9 @@ export const modulesSettings = {
       }
     ]
   },
+  sitemap: {
+    hostname: 'https://codereviewnews.com'
+  },
   styleResources: {
     scss: ['./assets/scss/_vars.scss']
   },
